@@ -1,5 +1,5 @@
 #! /bin/bash
-CODE_DIR=/home/tao/Desktop/src/bash
+CODE_DIR=/.github/workflows
 cd $CODE_DIR
 #编写镜像文件
 cat >./Dockerfile << a
