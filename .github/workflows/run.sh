@@ -1,6 +1,5 @@
 #! /bin/bash
 
-cd $CODE_DIR
 #编写镜像文件
 cat >./Dockerfile << a
 FROM alpine
